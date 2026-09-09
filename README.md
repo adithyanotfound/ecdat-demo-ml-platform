@@ -20,3 +20,4 @@ See `EXPECTED_FINDINGS.md` for the full list of planted artefacts and the
 detector rule ID that should catch each one.
 
 test
+test
