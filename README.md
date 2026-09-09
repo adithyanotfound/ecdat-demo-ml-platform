@@ -18,3 +18,5 @@ Atlas profile: **High**, broad language/detector-family coverage.
 Connect this repository through the ECDAT Atlas GitHub App to trigger a scan.
 See `EXPECTED_FINDINGS.md` for the full list of planted artefacts and the
 detector rule ID that should catch each one.
+
+test
